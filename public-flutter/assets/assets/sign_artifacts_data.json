@@ -1,0 +1,46 @@
+{
+  "dir": [
+    {
+      "name": "Temp_User_Developer",
+      "type": "directory",
+      "dir": [
+        {
+          "name": "Sales_App_Doc",
+          "type": "directory",
+          "dir": [
+            {
+              "name": "Hello_Customer",
+              "type": "file"
+            },
+            {
+              "name": "Login",
+              "type": "file"
+            },
+            {
+              "name": "All_leads",
+              "type": "directory",
+              "dir": []
+            }
+          ]
+        },
+        {
+          "name": "EOL_App_Doc",
+          "type": "file"
+        },
+        {
+          "name": "Companion_App_Doc",
+          "type": "directory",
+          "dir": []
+        }
+      ]
+    },
+    {
+      "name": "Temp_User_QA",
+      "type": "directory"
+    },
+    {
+      "name": "Temp_User_Design",
+      "type": "directory"
+    }
+  ]
+}

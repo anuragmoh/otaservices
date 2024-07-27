@@ -1,0 +1,66 @@
+{
+  "name": "C-app",
+  "type": "directory",
+  "dir": [
+    {
+      "name": "APKs",
+      "type": "directory",
+      "dir": [
+        {
+          "name": "Dev",
+          "type": "directory",
+          "dir": [
+            {
+              "name": "Dev version 1",
+              "type": "file"
+            },
+            {
+              "name": "Dev version 2",
+              "type": "file"
+            },
+            {
+              "name": "Dev version 3",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "Beta",
+          "type": "directory",
+          "dir": [
+            {
+              "name": "Beta version 1",
+              "type": "file"
+            },
+            {
+              "name": "Beta version 2",
+              "type": "file"
+            },
+            {
+              "name": "Beta version 3",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "UAT",
+          "type": "directory",
+          "dir": [
+            {
+              "name": "Uat version 1",
+              "type": "file"
+            },
+            {
+              "name": "UAT version 2",
+              "type": "file"
+            },
+            {
+              "name": "UAT version 3",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
